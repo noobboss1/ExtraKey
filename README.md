@@ -12,7 +12,7 @@
 
 [ TAB && CTRL && ALT && LEFT && DOWN && RIGHT ]<br>[2]. [ cd && ls && nano && bash && python && php ]
 
-[ CTRL && ALT && LEFT && UP && DOWN && RIGHT ]<br>[ F1 && F2 && F3 && F4 && F5 && F6 && F7 ]
+[ CTRL && ALT && LEFT && UP && DOWN && RIGHT ]<br>[3] [ F1 && F2 && F3 && F4 && F5 && F6 && F7 ]
 
 [ ESC && / && - && HOME && UP && END && PGUP ]
 
